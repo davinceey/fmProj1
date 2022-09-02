@@ -38,8 +38,8 @@ Focusing relatively on a better application of the Flexbox property and the feat
 
 ### Useful resources
 
-- [Example resource 1](https://www.stackoverflow.com) - This helped me for finding better ways of replacing image classes when moving from a desktop layout to a mobile layput and vice versa.
-- [Example resource 2](https://www.developer.mozilla.org) - This is an amazing article which helped me finally understand transitionng during hover effects. I'd recommend it to anyone still learning this concept.
+- [StackOverflow](https://www.stackoverflow.com) - This helped me for finding better ways of replacing image classes when moving from a desktop layout to a mobile layput and vice versa.
+- [MDN Docs](https://www.developer.mozilla.org) - This is an amazing article which helped me finally understand transitionng during hover effects. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
